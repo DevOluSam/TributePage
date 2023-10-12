@@ -11,11 +11,25 @@ body {
     align-items: center;
     height: 500px;
     margin: 50px auto;
-    width: 500px;
+    width: 500px;    
+}
+#img-caption {
+    color: rgb(23, 23, 80);
+    text-align: center;
+
 }
 #title {
     text-align: center;
 }
 #text {
     text-align: center;
+}
+.life-header {
+    text-align: center;
+    justify-content: center;
+}
+.contact {
+    background-color: rgb(46, 152, 160);
+    text-align: center;
+    color: rgb(122, 34, 34);
 }
